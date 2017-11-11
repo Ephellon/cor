@@ -1,6 +1,6 @@
 
 ---
-A vary basic static web server example
+A very basic static web server example
 ---
 
 use 'http'
